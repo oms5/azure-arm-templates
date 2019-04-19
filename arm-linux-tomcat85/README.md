@@ -1,0 +1,1 @@
+This is a azure ARM template for provisioning Tomcat 8.5 JRE 8 on Linux.

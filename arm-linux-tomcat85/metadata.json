@@ -1,0 +1,7 @@
+
+{
+    "itemDisplayName": "Web App - Linux - Tomcat 8.5 - JRE 8",
+    "description": "This template creates an Azure Web App (linux | Tomcat 8.5 - JRE 8 without a data store.",
+    "githubUsername": "oms5",
+    "summary": "Deploys an Azure Linux Tomcat 8.5 Web App as an environment in a DevTest Lab."
+  }
